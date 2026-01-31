@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">✨Hello! I’m Parth, a computer science enthusiast who loves turning ideas into working software. My interests include Python development, web applications, AI/ML concepts, and building projects that solve meaningful problems.</p>
+<p align="center">✨I’m Parth, a computer science enthusiast who loves turning ideas into working software. My interests include Python development, web applications, AI/ML concepts, and building projects that solve meaningful problems.</p>
 
 ###
 
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parthzraj&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=parthzraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
