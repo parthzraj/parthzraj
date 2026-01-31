@@ -1,8 +1,4 @@
-<img align="left" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
-###
-
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
+<img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
@@ -11,6 +7,10 @@
 ###
 
 <p align="center">✨Hello! I’m Parth, a computer science enthusiast who loves turning ideas into working software. My interests include Python development, web applications, AI/ML concepts, and building projects that solve meaningful problems.</p>
+
+###
+
+<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
 
 ###
 
@@ -46,13 +46,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
 </div>
 
 ###
 
 <div align="center">
   <a href="www.linkedin.com/in/parthzraj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -60,12 +62,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2MGZzNDFma21rMWt2eHpteGZ4NDd4Mm04MHY1cW56d3o3OGR3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
 ###
