@@ -1,10 +1,14 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
+
+###
+
+<h1 align="center">Namaste!!🙏</h1>
+
+###
+
+<p align="center">✨Hello! I’m Parth, a computer science enthusiast who loves turning ideas into working software. My interests include Python development, web applications, AI/ML concepts, and building projects that solve meaningful problems.</p>
 
 ###
 
@@ -48,6 +52,10 @@
   <img src="https://streak-stats.demolab.com?user=parthzraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/parthzraj/parthzraj/output/snake.svg" alt="Snake animation" />
 
 ###
 
