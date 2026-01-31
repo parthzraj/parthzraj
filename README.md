@@ -56,11 +56,6 @@
     height="150"
     alt="GitHub stats"
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthzraj&layout=compact&theme=dark"
-    height="150"
-    alt="Top languages"
-  />
   <img src="https://streak-stats.demolab.com?user=parthzraj&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
