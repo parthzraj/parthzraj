@@ -15,8 +15,10 @@
 ###
 
 <img align="left" height="156" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
+
 ###
 
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
   <img width="12" />
