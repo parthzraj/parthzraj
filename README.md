@@ -49,15 +49,19 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=parthzraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=parthzraj&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/parthzraj/parthzraj/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthzraj/parthzraj/output/pacman-contribution-graph-dark.svg">
