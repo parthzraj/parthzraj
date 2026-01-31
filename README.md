@@ -8,11 +8,7 @@
 
 ###
 
-<img align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
-
-###
-
-<img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img align="left" height="156" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
 
 ###
 
@@ -54,6 +50,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/parthzraj/parthzraj/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
