@@ -50,11 +50,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthzraj&theme=dark&hide_border=false" height="150" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&theme=gotham&area=true" height="300" alt="Activity Graph" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=parthzraj)](https://git.io/streak-stats)
 
 ###
 
