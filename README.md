@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">✨I’m Parth, a computer science enthusiast who loves turning ideas into working software. My interests include Python development, web applications, AI/ML concepts, and building projects that solve meaningful problems.</p>
+<p align="center">✨ I’m Parth, a computer science enthusiast with a strong passion for transforming ideas into reliable, real-world software solutions. I enjoy exploring the full lifecycle of development, from understanding a problem and designing a solution to implementing, testing, and refining it through code. My primary interests lie in Python development, building scalable and interactive web applications, and exploring core concepts in artificial intelligence and machine learning. I’m particularly motivated by projects that solve meaningful problems, automate tasks, or improve efficiency, and I enjoy continuously learning new technologies to strengthen both my problem-solving skills and software engineering fundamentals.</p>
 
 ###
 
