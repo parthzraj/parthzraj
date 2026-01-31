@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
+<img align="left" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+
+###
+
+<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
 
 ###
 
@@ -49,23 +51,21 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=parthzraj&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <a href="www.linkedin.com/in/parthzraj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthzraj&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthzraj&locale=en&hide_title=true&layout=default%20&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/parthzraj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
+  <img height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2MGZzNDFma21rMWt2eHpteGZ4NDd4Mm04MHY1cW56d3o3OGR3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
 ###
