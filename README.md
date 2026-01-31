@@ -1,8 +1,6 @@
-<img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
-###
-
-<h1 align="center">Namaste!!🙏</h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=139&section=header&reversal=false&text=%F0%9F%91%8BHey%20There!!&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
@@ -10,7 +8,11 @@
 
 ###
 
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
+<img align="left" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGE0dDJsNmhsZTgzMnNuaGhkYXpudzM2NjN5bGxiZ2w1ZThkOTRnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif"  />
+
+###
+
+<img align="right" height="170" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzluN3dyZG4zMmVwN3d2bzFiMmJtc3VjczVqM2owMTNhYjByYTM2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
@@ -52,16 +54,6 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/parthzraj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthzraj&radius=16&theme=gotham&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/parthzraj/parthzraj/output/snake.svg" alt="Snake animation" />
 
 ###
